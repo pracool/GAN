@@ -1,5 +1,5 @@
 # GAN
-1. This package assumes that you have installed tesnorflow 2.1.0 already and have required CUDa and other things already setup on your device.
+ # If tensorflow is already installed.
 2. To install other required libraries download the package and change directory to this folder and then  :
 ```bash 
 conda env update -f myenv.yml
